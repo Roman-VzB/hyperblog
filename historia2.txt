@@ -5,3 +5,6 @@ Román tiene 33 años.
 Mide 1.75 mts
 
 Nací en México, y he viajado a muchos lugares.
+
+Hoy hablaremos de su vida.
+
