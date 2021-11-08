@@ -1,0 +1,19 @@
+touch <nombre_archivo.txt>: crear archivo de texto plano
+code <nombre_archivo.txt>: abrir el archivo en VSCode para editarlo.
+git add <nombre_archivo.txt>: para agregarlo al tracking
+git add . : con este comando podemos agregar varios archivos si los estuviarmos trabajando al mismo tiempo.
+git commit <nombre_archivo.txt>: para dejar el registro de los cambios que hicimos al archivo.
+    # Si no metemos una descripción al commit, nos abre un editor de texto para introducirlo (obligatorio).
+    # ctr-s +ctr-x para guardar y salir del editor.
+git commit -m "comentario a incluir dentro del commmit"
+git status: para saber si tenemos cambios pendientes por hacer en commit
+git show <nombre_archivo.txt>: muestra los últimos cambios.
+git log <nombre_archivo.txt>: muestra la historia de cambios del archivo (con sus comentarios del commit)
+git diff <codigo_log_version> <codigo_log_version_ant>: comparar entre versiones (depende el orden en que ingrese las versiones, es como se compararán)
+cat <nombre_archivo.txt>: muestra el contenido actual del archivo
+
+## Nueva clase para regresar a estados anteriores
+git reset wr2392098350982190fwevwi309 --hard: más peligroso pero más común
+git reset wr2392098350982190fwevwi309 --soft: vuelves a la versión anterior, pero lo que esté en staging sigue ahí.
+        #sigue disponible para el proximo commit
+
