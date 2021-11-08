@@ -3,3 +3,5 @@ Esta es la historia de Román Vázquez
 Román Vázquez tiene 33 años y nació en México.
 
 En camara parece alto pero no es tan alto.
+
+Ya terminó el diplomado de Machine Learning en el ITAM
