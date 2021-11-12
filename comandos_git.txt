@@ -17,3 +17,6 @@ git reset wr2392098350982190fwevwi309 --hard: más peligroso pero más común
 git reset wr2392098350982190fwevwi309 --soft: vuelves a la versión anterior, pero lo que esté en staging sigue ahí.
         #sigue disponible para el proximo commit
 
+
+
+token github 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
