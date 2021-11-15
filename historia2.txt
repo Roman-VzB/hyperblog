@@ -12,5 +12,7 @@ Ok sí borró todos los cambios que había hasta ese entonces.
 
 Master 1
 
+Master 2
+
 
 Si meto rm --cached, no debería aplicar este cambio.
