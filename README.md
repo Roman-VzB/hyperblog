@@ -10,5 +10,6 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Mi interés por investigar más allá cuando algo no sale
 * Creado por el increíble Román Vázquez
+* Incluye ejemplos en linux, windows y mac
 
 Recordatorio: Este **readme.md es un chiste** Ver el hyperblog que creamos en el curso [ver aquí](https://github.com/Roman-VzB/hyperblog)
