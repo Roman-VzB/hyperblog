@@ -8,7 +8,7 @@ En este curso vemos de todo:
 * El flujo de trabajo de GitHub
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
-* Mi interes por investigar más allá cuando algo no sale
+* Mi interés por investigar más allá cuando algo no sale
 * Creado por el increíble Román Vázquez
 * Incluye ejemplos en linux, windows y mac
 * Disponible para todas las edades
