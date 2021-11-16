@@ -13,5 +13,8 @@ En este curso vemos de todo:
 * Incluye ejemplos en linux, windows y mac
 * Disponible para todas las edades
 * Línea 1
+* Línea 2
+* Línea 3
+
 
 Recordatorio: Este **readme.md es un chiste** Ver el hyperblog que creamos en el curso [ver aquí](https://github.com/Roman-VzB/hyperblog)
