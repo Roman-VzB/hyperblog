@@ -8,7 +8,7 @@ En este curso vemos de todo:
 * El flujo de trabajo de GitHub
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
-* Mi interes por investigar más allá cuando algo no sale
+* Mi interés por investigar más allá cuando algo no sale
 * Creado por el increíble Román Vázquez
 
 Recordatorio: Este **readme.md es un chiste** Ver el hyperblog que creamos en el curso [ver aquí](https://github.com/Roman-VzB/hyperblog)
